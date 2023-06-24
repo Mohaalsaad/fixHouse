@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>1067245709525-2gevccp6j8flf6qbs0abh1ol7c8pt4r3.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.1067245709525-2gevccp6j8flf6qbs0abh1ol7c8pt4r3</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDF2cdvf7jGqOIyyAP5ZEK20SirjybcnHw</string>
+	<key>GCM_SENDER_ID</key>
+	<string>1067245709525</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>moha.fixHouse</string>
+	<key>PROJECT_ID</key>
+	<string>fixhouse-ca49a</string>
+	<key>STORAGE_BUCKET</key>
+	<string>fixhouse-ca49a.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:1067245709525:ios:7c6fff88b51a8aecf59a5c</string>
+</dict>
+</plist>
