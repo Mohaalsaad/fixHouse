@@ -1,4 +1,4 @@
-<img width="992" alt="image" src="https://github.com/Meem10/fixHouse/assets/96354280/6fcdb635-9b44-4e79-8862-d4fe8100d91c"><h1 align="center">FixHouse App🏡</h1>
+<h1 align="center">FixHouse App🏡</h1>
 
 <h3 align="left">Descripton</h3>
 
