@@ -1,6 +1,6 @@
 <h1 align="center">FixHouse App🏡</h1>
 
-<h3 align="left">Descripton</h3>
+<h3 align="left">📝Descripton</h3>
 
 In our daily life or in our home life, our homes need many maintenance services on an ongoing basis, whether it is in home appliances or others.
 We may need a worker or service provider to repair the required service. For example, when you need an electrician, you may need to go outside the house and search for the appropriate repairman, and you may not get him.
@@ -27,7 +27,7 @@ In the beginning, on the new account registration and login pages, there are man
 
 ---
 
-<h3 align="left">Home Page</h3>
+<h3 align="left">🏠 Home Page</h3>
 
 <img width="300" alt="Screenshot 1444-12-08 at 5 11 51 PM" src="https://github.com/Meem10/fixHouse/assets/96354280/4f3d3890-d912-4491-b63f-e321b74aeaa8">
 
@@ -54,7 +54,7 @@ To provide the best experiences for users on all platforms, we have been eager t
 all sizes of devices.
 
 ---
-<h3 align="left">Improve experiences</h3>
+<h3 align="left">💳Improve experiences</h3>
 
 <img width="500" alt="Screenshot 1444-12-08 at 5 23 49 PM" src="https://github.com/Meem10/fixHouse/assets/96354280/b0d59eaa-ee6c-46a8-9982-0c35249d1062">
 
@@ -65,12 +65,13 @@ The aim of the additions for simple things such as the Apple Pay payment service
 
 <h2 align="left">📦 Swift Package Manager :</h2>
 
-- FireBaseAuth
-- FireBaseFireStore
-- FireBaseCore
-- GoogleSignIN
+- FireBaseAuth.
+- FireBaseFireStore.
+- FireBaseCore.
+- GoogleSignIN.
 
 <h2 align="left">🧳 Features :</h2>
+
 - Apple Pay. 
 - MapKit. 
 - PassKit.
