@@ -1,4 +1,4 @@
-<h1 align="center">FixHouse App🏡</h1>
+<img width="992" alt="image" src="https://github.com/Meem10/fixHouse/assets/96354280/6fcdb635-9b44-4e79-8862-d4fe8100d91c"><h1 align="center">FixHouse App🏡</h1>
 
 <h3 align="left">Descripton</h3>
 
@@ -32,7 +32,7 @@ In the beginning, on the new account registration and login pages, there are man
 <img width="300" alt="Screenshot 1444-12-08 at 5 11 51 PM" src="https://github.com/Meem10/fixHouse/assets/96354280/4f3d3890-d912-4491-b63f-e321b74aeaa8">
 
 
-There are many services displayed on the start page, where the user can request the service easily and communicate with the technician in a simple way to facilitate the provision of the service. Also, the user can choose the other service if the service is not available on the home page.
+There are many services displayed on the start page, where the user can request the service easily and simply communicate with the technician to facilitate the provision of the service. Also, the user can choose the other service if the service is not available on the home page.
 
 Some Services:
 
@@ -42,15 +42,39 @@ Some Services:
 - other services.
 
 
+---
+
+
+<h3 align="left">Devices Layout</h3>
 
     
-    
+<img width="500" alt="Screenshot 1444-12-08 at 5 22 06 PM" src="https://github.com/Meem10/fixHouse/assets/96354280/b2e3bbe9-3592-4123-b92d-3b87a4d90d0d">
+
+To provide the best experiences for users on all platforms, we have been eager to implement the application in
+all sizes of devices.
+
+---
+<h3 align="left">Improve experiences</h3>
+
+<img width="500" alt="Screenshot 1444-12-08 at 5 23 49 PM" src="https://github.com/Meem10/fixHouse/assets/96354280/b0d59eaa-ee6c-46a8-9982-0c35249d1062">
+
+Several things have been added to enable the user to order in a simple way, including an easy website and easy payment.
+The aim of the additions for simple things such as the Apple Pay payment service is to facilitate the customer and service provider to ensure full payments.
 
 
 
+<h2 align="left">📦 Swift Package Manager :</h2>
 
+- FireBaseAuth
+- FireBaseFireStore
+- FireBaseCore
+- GoogleSignIN
 
-
+<h2 align="left">🧳 Features :</h2>
+- Apple Pay. 
+- MapKit. 
+- PassKit.
+- Notifications.
 
 
 <h3 align="left">Languages and Tools:</h3>
