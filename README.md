@@ -54,7 +54,7 @@ To provide the best experiences for users on all platforms, we have been eager t
 all sizes of devices.
 
 ---
-<h3 align="left">💳Improve experiences</h3>
+<h3 align="left">💳 Improve experiences</h3>
 
 <img width="500" alt="Screenshot 1444-12-08 at 5 23 49 PM" src="https://github.com/Meem10/fixHouse/assets/96354280/b0d59eaa-ee6c-46a8-9982-0c35249d1062">
 
