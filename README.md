@@ -29,10 +29,17 @@ In the beginning, on the new account registration and login pages, there are man
 
 <h3 align="left">Home Page</h3>
 
-<img width="300" alt="Screenshot 1444-12-08 at 5 11 51 PM" src="https://github.com/Meem10/fixHouse/assets/96354280/96aabbbb-5d8b-4e7d-a060-aab5622063a8">
+<img width="300" alt="Screenshot 1444-12-08 at 5 11 51 PM" src="https://github.com/Meem10/fixHouse/assets/96354280/4f3d3890-d912-4491-b63f-e321b74aeaa8">
+
 
 There are many services displayed on the start page, where the user can request the service easily and communicate with the technician in a simple way to facilitate the provision of the service. Also, the user can choose the other service if the service is not available on the home page.
 
+Some Services:
+
+- Electricity.
+- Kitchen Devices.
+- Plumbing.
+- other services.
 
 
 
