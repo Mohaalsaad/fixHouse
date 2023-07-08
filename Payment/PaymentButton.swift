@@ -8,7 +8,6 @@
 import SwiftUI
 import PassKit
 
-
 struct PaymentButton: View {
     var action: () -> Void
     
