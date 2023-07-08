@@ -14,8 +14,8 @@ struct PaymentPage: View {
     @State var date = ""
     @State var CVV = ""
     @StateObject var vm = OrderViewModel()
-    let textLimit = 3 //Your limit
-    let textLimit2 = 16 //Your limit
+    let textLimit = 3 
+    let textLimit2 = 16 
     
     var body: some View {
         if vm.paymentSuccess{
