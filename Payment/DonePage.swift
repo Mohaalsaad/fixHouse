@@ -19,6 +19,8 @@ struct DonePage: View {
                     .multilineTextAlignment(.center)
                     .bold()
                     .font(.largeTitle)
+
+
                 
                 NavigationLink {
                     MyTapBar()
