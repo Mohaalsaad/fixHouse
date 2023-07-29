@@ -18,6 +18,7 @@ struct EmpityPage: View {
                 .foregroundColor(.gray)
                 .bold()
         }
+        
     }
 }
 struct EmpityPage_Previews: PreviewProvider {
