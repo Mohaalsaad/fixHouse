@@ -11,6 +11,7 @@ struct MyTapBar: View {
     @State private var activeTab: Tab = . home
     @Namespace private var animation
     @StateObject var vm = OrderViewModel()
+
     
     init(){UITabBar.appearance () . isHidden = true}
     
