@@ -128,17 +128,17 @@ struct SignUpPage: View {
         }
     }
     
-    //    func addToDataBase(phone: String ,lastName: String , firstName: String , email: String ){
-    //        let dataBase = Firestore.firestore()
-    //        dataBase.collection("users").document().setData([
-    //            "phone" : phone,
-    //            "Full Name" : lastName,
-    //            "first name" : firstName,
-    //            "email" : email
-    //     ])
-    //
-    //
-    //    }
+       func addToDataBase(phone: String ,lastName: String , firstName: String , email: String ){
+           let dataBase = Firestore.firestore()
+           dataBase.collection("users").document().setData([
+               "phone" : phone,
+               "Full Name" : lastName,
+               "first name" : firstName,
+               "email" : email
+        ])
+    
+    
+       }
     
     
     
