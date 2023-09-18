@@ -57,7 +57,6 @@ class PaymentHandler: NSObject {
        
         paymentSummaryItems = []
         
-
         products.forEach { product in
             let item = PKPaymentSummaryItem(label: product.serviesKind, amount: NSDecimalNumber(string: "25.00 $"), type: .final)
             paymentSummaryItems.append(item)
