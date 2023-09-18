@@ -54,7 +54,7 @@ class PaymentHandler: NSObject {
     func startPayment(products: [OrderDetails], total: Int, completion: @escaping PaymentCompletionHandler) {
         completionHandler = completion
         
-        // Reset the paymentSummaryItems array before adding to it
+       
         paymentSummaryItems = []
         
 
