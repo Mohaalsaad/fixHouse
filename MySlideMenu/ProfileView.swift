@@ -2,7 +2,7 @@
 //  ProfileView.swift
 //  SideMenuSwiftUI
 //
-//  Created by Zeeshan Suleman on 04/03/2023.
+//  Created by Mohammed. on 04/03/2023.
 //
 
 import SwiftUI
