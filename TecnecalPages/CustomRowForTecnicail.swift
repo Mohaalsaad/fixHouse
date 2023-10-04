@@ -7,6 +7,7 @@
 
 import SwiftUI
 
+
 struct CustomRowForTecnicail: View {
     @StateObject var vm = TecnicalViewModel()
     @State private var showView = false
